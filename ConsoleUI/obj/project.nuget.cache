@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCHZAbkpqyCJYaOU0rbyg9VDFtgRPNQxwmW4Z4EZ9Yz8iYG8j0ZuZJtQ9W7OMXuv2R5sUVDIXgvq/v+m2bcBbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serbi\\Downloads\\Ghosttrain\\Ghosttrain\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serbi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

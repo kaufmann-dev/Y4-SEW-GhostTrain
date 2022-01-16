@@ -1,0 +1,16 @@
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.dev.json
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.pdb
+C:\Users\serbi\Downloads\Ghosttrain\Ghosttrain\ConsoleUI\obj\Debug\net5.0\ConsoleUI.genruntimeconfig.cache
